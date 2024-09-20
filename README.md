@@ -1,6 +1,6 @@
 ## SimDetect: Detecting Backdoor Models via Assimilation Anomalies Analysis
 
-![image-20240920112602314](README.assets/./image/1726803401941.jpg)
+![[image-20240920112602314](https://github.com/liminghaoya/SimDetect/blob/main/image/1726803401941.jpg)
 
 Pipeline for SimDetect. (1) Feature attention maps from benign, poisoned, and unknown models are analyzed using class assimilation rates. Frobenius norm calculations are employed to determine whether the unknown model is poisoned. (2) Covariance matrices and Covariance Discriminant Analysis (CDA) scores identify the top-10 suspect samples, revealing the poisoned category.
 
