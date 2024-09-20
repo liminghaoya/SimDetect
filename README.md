@@ -1,4 +1,4 @@
-## SIBP: Self-Inspecting Backdoor Purification through Adaptive Identification of Suspicious Neurons
+## SimDetect: Detecting Backdoor Models via Assimilation Anomalies Analysis
 
 ![image-20240920112602314](README.assets/./image/1726803401941.jpg)
 
